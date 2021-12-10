@@ -1,6 +1,6 @@
-# Pokemon Data Analysis Project
+# Pokemon ETL Project
 
-This project puts together a Pokemon dataset to allow users to have all their favorite pokemon stats at their fingertips.
+This project puts together a Pokemon database created from two datasets to allow users to have all their favorite pokemon stats at their fingertips.
 
 <p align="center">
 <img width="400" alt="pokedex" src="https://img.rankedboost.com/wp-content/uploads/2017/09/Pokemon-GO-GEN-4-Pokedex.png"><img width="400" alt="pikachu" src="https://www.pngmart.com/files/2/Pikachu-Transparent-Background.png">
@@ -22,7 +22,6 @@ The second dataset is [Complete Pokémon Dataset](https://github.com/KElijahS/ET
   
 ## Final Dataset
 We decided to use the relational database, SQL, for our project. We felt that it allowed us more ability to do certain analysis and observation. 
-* [Final Pokemon Dataset](https://github.com/KElijahS/ETL-Project2/blob/main/Dataset/Pokemon_join.csv)
   
 <p align="center">	
-<img width="600" alt="finaldata" src="https://github.com/KElijahS/ETL-Project2/blob/main/Images/Pokemon_join.jpg?raw=true">
+<img width="600" alt="finaldata" src="https://github.com/KElijahS/ETL-Project2/blob/main/Dataset/Pokemon_join.csv">
