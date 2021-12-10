@@ -22,6 +22,12 @@ The second dataset is [Complete Pokémon Dataset](https://github.com/KElijahS/ET
   
 ## Final Dataset
 We decided to use the relational database, SQL, for our project. We felt that it allowed us more ability to do certain analysis and observation. 
-  
+	
+* [Final Pokémon Dataset](https://github.com/KElijahS/ETL-Project2/blob/main/Dataset/Pokemon_join.csv)
+	
 <p align="center">	
-<img width="600" alt="finaldata" src="https://github.com/KElijahS/ETL-Project2/blob/main/Dataset/Pokemon_join.csv">
+<img width="600" alt="finaldata" src="https://github.com/KElijahS/ETL-Project2/blob/main/Images/Pokemon_join.jpg">
+	
+## Conclusion
+* [Project Report](https://github.com/KElijahS/ETL-Project2/blob/main/Project%20Report/Write-up.docx)
+
