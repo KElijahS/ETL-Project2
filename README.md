@@ -29,5 +29,5 @@ We decided to use the relational database, SQL, for our project. We felt that it
 <img width="600" alt="finaldata" src="https://github.com/KElijahS/ETL-Project2/blob/main/Images/Pokemon_join.jpg">
 	
 ## Conclusion
-* [Project Report](https://github.com/KElijahS/ETL-Project2/blob/main/Project%20Report/Write-up.docx)
+* [Project Report](https://github.com/KElijahS/ETL-Project2/blob/main/Project%20Report/Final-Report.docx)
 
